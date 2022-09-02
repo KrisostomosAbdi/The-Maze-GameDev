@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - wall
+  - finish
+  - coin
+  - enemy
+  - musuh
+  - wall2
+  - bolamusuh
+  - finish2
+  - finish1
+  - potion
+  - potion2
+  - bom
+  - slime
+  - torch
+  - fire
+  - laser
+  - Easy
+  - Medium
+  - Hard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - user
+  - Water
+  - UI
+  - obstaclelimit
+  - obstacle
+  - wall
+  - coin
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
